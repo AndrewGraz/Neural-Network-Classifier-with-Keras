@@ -1,5 +1,5 @@
 Neural Network Classifier Using Keras
-This project implements a multi-layer neural network classifier using Python and TensorFlow’s Keras API. It was developed as part of the CSE 4309 course and includes:
+This project implements a multi-layer neural network classifier using Python and TensorFlow’s Keras API. It was developed as part of the CSE 4309 course:
 
 Data Handling: Reads and processes UCI dataset files for training and testing the model. Supports multiple datasets, including "pendigits" and "satellite."
 Normalization: Scales input features for better model performance by normalizing data values.
