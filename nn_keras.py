@@ -1,5 +1,4 @@
 # Andrew Graziano
-# 1002165893
 # CSE-4309-001
 import numpy as np
 import tensorflow as tf
