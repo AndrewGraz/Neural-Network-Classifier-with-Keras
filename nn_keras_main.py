@@ -1,5 +1,4 @@
 # Andrew Graziano
-# 1002165893
 # CSE-4309-001
 from nn_keras import *
 
